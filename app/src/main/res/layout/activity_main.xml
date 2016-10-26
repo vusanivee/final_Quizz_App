@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/mur"
+    tools:context="com.example.admin.final_quizz_app.MainActivity">
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TOPIC 1(know the images)"
+        android:textSize="40sp"
+        android:onClick="next_1"
+        android:id="@+id/button"
+        android:layout_centerVertical="true"
+       />
+</RelativeLayout>
