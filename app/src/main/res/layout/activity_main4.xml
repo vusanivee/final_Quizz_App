@@ -24,7 +24,7 @@
             android:text="PINK"
             android:layout_margin="8dp"
             android:textSize="15sp"
-            android:onClick="next"
+
             android:id="@+id/pink"
 
 
@@ -35,7 +35,7 @@
             android:text="RED"
             android:layout_margin="8dp"
             android:textSize="15sp"
-            android:onClick="next"
+
             android:id="@+id/red"
             />
         <RadioButton
@@ -44,7 +44,7 @@
             android:text="YELLOW"
             android:layout_margin="8dp"
             android:textSize="15sp"
-            android:onClick="next"
+
             android:id="@+id/yellow"
 
             />
@@ -54,7 +54,7 @@
             android:text="BLUE"
             android:layout_margin="8dp"
             android:textSize="15sp"
-            android:onClick="next"
+
             android:id="@+id/blue"
 
             />

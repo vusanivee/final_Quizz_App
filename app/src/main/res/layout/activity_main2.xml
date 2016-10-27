@@ -32,7 +32,6 @@
             android:text="BANANA"
             android:layout_margin="8dp"
             android:textSize="15sp"
-            android:onClick="next"
 
             android:id="@+id/fruit_banana"/>
         <RadioButton
@@ -41,7 +40,6 @@
             android:text="GRAPE"
             android:layout_margin="8dp"
             android:textSize="15sp"
-            android:onClick="next"
             android:id="@+id/fruit_grape"/>
         <RadioButton
             android:layout_width="wrap_content"
@@ -49,7 +47,6 @@
             android:text="PEAR"
             android:layout_margin="8dp"
             android:textSize="15sp"
-            android:onClick="next"
             android:id="@+id/fruit_pear"
 
 
@@ -61,7 +58,6 @@
             android:text="ORANGE"
             android:layout_margin="8dp"
             android:textSize="15sp"
-            android:onClick="next"
             android:id="@+id/fruit_orange"
 
 

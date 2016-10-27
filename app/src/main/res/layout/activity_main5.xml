@@ -31,7 +31,7 @@
             android:text="SPONGEBOB"
             android:layout_margin="8dp"
             android:textSize="15sp"
-            android:onClick="next"
+
             android:id="@+id/spongebob"
 
             />
@@ -41,7 +41,7 @@
             android:text="BEN 10"
             android:layout_margin="8dp"
             android:textSize="15sp"
-            android:onClick="next"
+
             android:id="@+id/ben10"
             />
 
@@ -51,7 +51,7 @@
             android:text="MINION"
             android:layout_margin="8dp"
             android:textSize="15sp"
-            android:onClick="next"
+
             android:id="@+id/minion"
 
 
@@ -64,7 +64,7 @@
             android:text="MICKEY"
             android:layout_margin="8dp"
             android:textSize="15sp"
-            android:onClick="next"
+
             android:id="@+id/mickey"
 
             />

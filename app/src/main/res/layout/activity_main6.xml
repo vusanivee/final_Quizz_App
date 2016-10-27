@@ -30,7 +30,7 @@
             android:text="JACOB ZUMA"
             android:layout_margin="8dp"
             android:textSize="15sp"
-            android:onClick="next"
+
             android:id="@+id/zuma"
 
 
@@ -41,7 +41,7 @@
             android:text="BARACK OBAMA"
             android:layout_margin="8dp"
             android:textSize="15sp"
-            android:onClick="next"
+
             android:id="@+id/obama"
             />
         <RadioButton
@@ -50,7 +50,7 @@
             android:text="THABO MBEKI"
             android:layout_margin="8dp"
             android:textSize="15sp"
-            android:onClick="next"
+
             android:id="@+id/mbeki"
 
             />
@@ -60,7 +60,7 @@
             android:text="NELSON MANDELA"
             android:layout_margin="8dp"
             android:textSize="15sp"
-            android:onClick="next"
+
             android:id="@+id/mandela"
 
             />
