@@ -34,6 +34,7 @@ public class Main4Activity extends AppCompatActivity implements CompoundButton.O
     public void onCheckedChanged(CompoundButton buttonView, boolean isChecked) {
 
         switch (buttonView.getId()) {
+            
             case R.id.blue:
                 score++;
                 Toast.makeText(this, "your score is:" + score, Toast.LENGTH_LONG).show();
