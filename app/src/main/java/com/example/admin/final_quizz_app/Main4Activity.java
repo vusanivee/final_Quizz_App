@@ -32,7 +32,7 @@ public class Main4Activity extends AppCompatActivity implements CompoundButton.O
 
     @Override
     public void onCheckedChanged(CompoundButton buttonView, boolean isChecked) {
-        
+
         switch (buttonView.getId()) {
             case R.id.blue:
                 score++;
